@@ -15,6 +15,8 @@ public class OperacionMatematicas {
         System.out.println("Suma de 2 numeros " + suma );
     }
     public static void main(String[] args) {
+        System.out.println("xd");
+        System.out.println("Hello world!");
         System.out.println("Hello world!");
 
         OperacionMatematicas iniciar = new OperacionMatematicas();
